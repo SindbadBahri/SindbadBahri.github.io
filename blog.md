@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Blog"
 ---
+Under Construction, I will be here as soon as possible! :)
 
 {% if site.show_excerpts %}
   {% include home.html %}

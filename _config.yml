@@ -1,6 +1,6 @@
 title: "Sinbad Bahri"
 author: "Rasoul Norouzi"
-description: "Made with <a href="https://github.com/niklasbuschmann/contrast"> <b style=\"color: #f45;\">&lt;3</b> </a>"
+description: "<a href="https://github.com/niklasbuschmann/contrast" target="_blank"> Made with <b style=\"color: #f45;\">&lt;3</b> </a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

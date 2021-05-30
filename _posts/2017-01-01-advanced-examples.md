@@ -1,3 +1,10 @@
+---
+title:  "Advanced examples"
+mathjax: true
+layout: post
+categories: media
+---
+
 ```python
 import os
 import glob

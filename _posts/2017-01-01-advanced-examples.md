@@ -623,4 +623,19 @@ plot_confusion_matrix(cm, cm_plot_labels,
     
 ![svg](output_31_1.svg)
     
+   ```
+   100 200 this is the result
+   ```
+   ```python
+   for e in 'rasoul':
+        print(e)
+   ```
+   ```
+   r
+   a
+   s
+   o
+   u
+   l
+   ```
 

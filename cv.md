@@ -8,7 +8,7 @@ title: Rasoul Norouzi
 - **Thesis Title:** A Data-Driven Ontology Building Method for Tourism Recommender Systems
 - Graduated with distinguished degree 
 - GPA: 17.74 out of 20 (above 88%) 
-- 
+
 ##### B.Sc. Industrial Engineering, Karaj Azad University, Karaj, Iran
 
 ##### Non-Academic Programs:

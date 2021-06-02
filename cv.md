@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: CV
+title: Rasoul Norouzi
 ---
 
 ## EDUCATION
@@ -14,4 +14,6 @@ title: CV
 - Principles of Machine Learning, Microsoft Professionals AI Programs, EDX.org, Free Participant
 - Essential Mathematics for Artificial Intelligence, Microsoft Professionals AI Programs, EDX.org, Free Participant
 - Intro to Computer Science, Udacity.com, Free Participant 
+
+------------
 ## WORK EXPERIENCE

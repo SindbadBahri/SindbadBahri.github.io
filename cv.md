@@ -19,4 +19,4 @@ title: Rasoul Norouzi
 - Intro to Computer Science, Udacity.com, Free Participant 
 
 ------------
-## WORK EXPERIENCE
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> WORK EXPERIENCE </h2>

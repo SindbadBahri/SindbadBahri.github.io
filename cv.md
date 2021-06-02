@@ -3,7 +3,7 @@ layout: page
 title: Rasoul Norouzi
 ---
 
-<div style="text-align=center;"><h2 style="color:rgb(247, 22, 105);"> EDUCATION </h2></div>
+<div style="text-align=center;"><h2 style="color:rgb(247, 22, 105);text-align=center;"> EDUCATION </h2></div>
 
 ##### M.Sc. By Research, Information Technology (IT), Tarbiat Modares University of Tehran, Iran 
 - **Thesis Title:** A Data-Driven Ontology Building Method for Tourism Recommender Systems

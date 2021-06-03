@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Skype, icon: skype, url: ""}
+  - {title: Skype, icon: skype, url: "https://join.skype.com/invite/mW7xxTxkv1T8"}
   - {title: Mail, icon: envelope, url: "rslnorouzi@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/SindbadBahri"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/rasoulnorouzi"}

@@ -1,6 +1,5 @@
 ---
 layout: page 
-title: Rasoul Norouzi
 ---
 
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
